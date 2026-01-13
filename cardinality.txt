@@ -1,0 +1,21 @@
+cardinality means a column has few distinct values compared to the number of rows.
+
+Simple examples
+
+Gender: Male / Female / Other
+
+Status: Active / Inactive
+
+JobGrade: A / B / C
+
+CountryCode: DE / FR / IN
+
+High cardinality (contrast)
+
+Email
+
+CustomerID
+
+OrderID
+
+Timestamp
