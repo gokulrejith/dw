@@ -1,4 +1,4 @@
-cardinality means a column has few distinct values compared to the number of rows.
+low cardinality means a column has few distinct values compared to the number of rows.
 
 Simple examples
 
